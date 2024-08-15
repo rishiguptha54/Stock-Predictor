@@ -1,2 +1,2 @@
 # Stock-Predictor
-Price Action of Stock with Technical Indicators
+Price Action of Stocks with Technical Indicators
